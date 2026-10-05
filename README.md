@@ -39,15 +39,7 @@ The contact form is configured for:
 
 It uses FormSubmit. On first deployment, FormSubmit may require email activation/verification before submissions are delivered.
 
-## WhatsApp
 
-Open `js/contact.js` and replace:
-
-`REPLACE_WITH_NUMBER`
-
-with the café's WhatsApp number in international format, without `+`, spaces or dashes.
-
-Example format: `919876543210`
 
 ## Important portfolio note
 
